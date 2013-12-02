@@ -15,6 +15,7 @@ Projektledaren väljer att ställa in information som ska vara tillgänglig för kun
 **Intressenter:**
 * Projektledare: Vill snabbt kunna få upp en organiserad bas för dokumentationen
 * Projektmedlem: Vill kunna arbeta med systemet  
+
 **Förkrav:** Projektmedlemmen måste vara autentiserad  
 **Efterkrav:** Dokumentet har skapats  
 **Huvudscenario:**  
