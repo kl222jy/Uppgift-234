@@ -5,6 +5,7 @@ Ett projekthanteringssystem som förenklar samarbete och skapande av dokumentatio
 * Dokumentation - hänvisar här till projektdokumentation i form av text och kalkylblad.
 * Projektledare - ledaren för ett projekt i systemet
 * Projektmedlem - samtliga medlemmar i ett projekt i systemet
+* Informationsflöde - projektets samlade information eller delar av denna, informationsmängd, datamängd
 
 ##Bakgrund och problembeskrivning
 Utan att använda sig av något system för att hantera dokumentation är det omständligt att samarbeta och strukturera upp informationen överskådligt.
@@ -46,4 +47,3 @@ Samtliga användargrupper har också ett intresse för effektiviseringen detta syst
 * BK4 - Det finns kontroller som hjälper till att minska risken för misslyckade projekt(ex. tendeser mot arbete i vattenfallsmodell)
 * BK5 - Projektmedlemmar ska kunna få en förbättrad överblick över projektet
 * BK6 - Automatiska utskick av händelser för att hålla konservativa medlemmar uppdaterade
-
