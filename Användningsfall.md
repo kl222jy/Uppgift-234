@@ -110,13 +110,6 @@ Projektmedlem: Vill kunna arbeta med systemet
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
   5. Gå till 4  
-
-2i. Vald dokumenttyp är Vision  
-  1. Systemet applicerar mall för vision  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
   
 ##AF2.3 - Lägga till händelse
 En projektmedlem väljer att lägga till en händelse, systemet efterfrågar namn, datum och beskrivning. D
