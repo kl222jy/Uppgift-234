@@ -30,19 +30,22 @@ Projektmedlemmar ska kunna logga in i systemet
 
 ###Användningsfall
 
-####1 Projektledare
-* AF1.1 - Skapa projekt
-* AF1.2 - Lägga till projektmedlemmar
-* AF1.3 - Ta bort projektmedlemmar
-* AF1.4 - Ställa in vilken information som är tillgänglig för kund
+####1 Projektledare  
+AF1.1 - Skapa projekt  
+AF1.2 - Lägga till projektmedlemmar  
+AF1.3 - Ta bort projektmedlemmar  
+AF1.4 - Ställa in vilken information som är tillgänglig för kund  
 
-####2 Projektmedlem
-* AF2.1 - Lägga till dokument
-* AF2.2 - Hantera dokument
-* AF2.3 - Lägga till händelse
-* AF2.4 - Kommunicera med enskild projektmedlem
-* AF2.5 - Kommunicera med samtliga projektmedlemmar
-* AF2.6 - Lägga till idé
+####2 Projektmedlem  
+AF2.1 - Lägga till dokument  
+AF2.2 - Hantera dokument  
+AF2.3 - Lägga till händelse  
+AF2.4 - Kommunicera med enskild projektmedlem  
+AF2.5 - Kommunicera med samtliga projektmedlemmar  
+AF2.6 - Lägga till idé  
+AF2.7 - Ta bort dokument  
+AF2.8 - Ta bort idé  
+AF2.9 - Ta bort händelse  
 
 ##Ickefunktionella krav
 
@@ -70,3 +73,4 @@ Systemet ska vara tillgänglighetsanpassat enligt WCAG 2.0 AA
 Systemet ska uppfattas som snabbt
 
 ####Säkerhet
+

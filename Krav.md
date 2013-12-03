@@ -10,6 +10,14 @@ AF2.3 - Lägga till händelse | Projektmedlem | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0
 AF2.4 - Kommunicera med enskild projektmedlem | Projektmedlem | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 AF2.5 - Kommunicera med samtliga projektmedlemmar | Projektmedlem | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 AF2.6 - Lägga till idé | Projektmedlem | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+AF2.7 - Ta bort dokument | Projektmedlem | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+AF2.8 - Ta bort idé | Projektmedlem | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+AF2.9 - Ta bort händelse | Projektmedlem | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 F1 - Inloggning | Grundare | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Anv1 - Grafisk utformning | Grundare | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Till1 - Handikappanpassning | Grundare | Kristoffer | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+
+
+
+
