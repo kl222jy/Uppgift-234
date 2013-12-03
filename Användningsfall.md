@@ -66,8 +66,8 @@ Projektmedlem: Vill kunna arbeta med systemet
   5. Gå till 4  
   
   2ba. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig
-    1. Systemet varnar för tendenser mot vattenfallsmodellen
-    2. gå till 2b2.
+  1. Systemet varnar för tendenser mot vattenfallsmodellen
+  2. gå till 2b2.
 
 2c. Vald dokumenttyp är krav  
   1. Systemet applicerar mall för krav  
