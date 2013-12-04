@@ -38,9 +38,9 @@
 Målet för detta testfall är att undersöka att det går att hantera ett dokument.
 
 ###Förkrav
-Inloggad, projekt skapat, följande dokument måste finnas:
-namn:dokumenttyp
-"test-skräddarsydd":"skräddarsydd"
+Inloggad, projekt skapat, följande dokument måste finnas:  
+namn:dokumenttyp  
+"test-skräddarsydd":"skräddarsydd"  
 "test-vision":"vision"  
 "test-kravspecifikation":"kravspecifikation"  
 "test-krav":"krav"  

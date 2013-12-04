@@ -114,12 +114,12 @@ Projektmedlem: Vill kunna arbeta med systemet
   4. Användaren väljer att avsluta redigeringen  
   5. Gå till 4  
   
-  2ia. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
-  ia1. Systemet varnar för tendenser mot vattenfallsmodellen  
-  ia2. gå till 2i2  
+  2a. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
+  a1. Systemet varnar för tendenser mot vattenfallsmodellen  
+  a2. gå till 2  
 
 ##AF2.3 - Lägga till händelse
-En projektmedlem väljer att lägga till en händelse, systemet efterfrågar namn, datum och beskrivning. D
+En projektmedlem väljer att lägga till en händelse, systemet efterfrågar namn, datum och beskrivning.
 
 ##AF2.4 - Kommunicera med enskild projektmedlem
 En projektmedlem väljer att skicka ett meddelande till en specifik medlem, om användaren är inloggad presenteras meddelandet för denna annars visas det vid nästa inloggning
