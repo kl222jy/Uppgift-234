@@ -107,16 +107,16 @@ Projektmedlem: Vill kunna arbeta med systemet
   4. Användaren väljer att avsluta redigeringen  
   5. Gå till 4  
 
-2h. Vald dokumenttyp är användningsfall  
+2i. Vald dokumenttyp är användningsfall  
   1. Systemet applicerar mall för användningsfall  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
   5. Gå till 4  
   
-  2ha. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
-  ha1. Systemet varnar för tendenser mot vattenfallsmodellen  
-  ha2. gå till 2h2  
+  2ia. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
+  ia1. Systemet varnar för tendenser mot vattenfallsmodellen  
+  ia2. gå till 2i2  
 
 ##AF2.3 - Lägga till händelse
 En projektmedlem väljer att lägga till en händelse, systemet efterfrågar namn, datum och beskrivning. D
