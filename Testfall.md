@@ -107,7 +107,7 @@ Kontrollera att dokument av rätt dokumenttyp skapats och sparats korrekt med det
   3. gå till steg 4  
 
   2a. Lägg till några längre användningsfall(fully dressed)
-  1. Kontrollera att varning ges för risk för tendenser till vattenfallsmodell
+  2a1. Kontrollera att varning ges för risk för tendenser till vattenfallsmodell
 
 
 
