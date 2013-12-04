@@ -11,7 +11,7 @@ Projektledaren väljer att lägga till projektmedlemmar, systemet frågar efter nam
 Projektledaren väljer att ta bort projektmedlemmar, systemet presenterar projektets medlemmar. Projektledaren väljer ett eller flera namn och medlemmen/medlemmarna läggs sedan till i projektet.
 
 ##AF1.4 Ställa in vilken information som är tillgänglig för kund
-Projektledaren väljer att ställa in information som ska vara tillgänglig för kund, systemet presenterar möjliga alternativ, projektledaren väljer ibland alternativen, datalagringen sparar valda inställningar
+Projektledaren väljer att ställa in information som ska vara tillgänglig för kund, systemet presenterar möjliga alternativ, projektledaren väljer bland alternativen, datalagringen sparar valda inställningar
 
 ##AF2.1 - Lägga till dokument
 **Avgränsning:** System  
