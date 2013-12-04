@@ -46,9 +46,9 @@ Projektmedlem: Vill kunna arbeta med systemet
 **Efterkrav:** Dokumentet har skapats  
 **Huvudscenario:**  
 1. Projektmedlemmen väljer hantera ett dokument  
-2. Systemet presenterar dokumentet 
-3. Användaren lägger till innehåll i dokumentet
-4. Datalagringen sparar dokumentet och dess innehåll
+2. Systemet presenterar dokumentet  
+3. Användaren lägger till innehåll i dokumentet  
+4. Datalagringen sparar dokumentet och dess innehåll  
 
 **Alternativt scenario:**  
 2a. Vald dokumenttyp är vision  
