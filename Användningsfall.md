@@ -64,10 +64,6 @@ Projektmedlem: Vill kunna arbeta med systemet
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
   5. Gå till 4  
-  
-  2ba. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
-  ba1. Systemet varnar för tendenser mot vattenfallsmodellen  
-  ba2. gå till 2b2  
 
 2c. Vald dokumenttyp är krav  
   1. Systemet applicerar mall för krav  
@@ -110,7 +106,18 @@ Projektmedlem: Vill kunna arbeta med systemet
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
   5. Gå till 4  
+
+2h. Vald dokumenttyp är användningsfall  
+  1. Systemet applicerar mall för användningsfall  
+  2. Användaren lägger till innehåll i dokumentet  
+  3. Systemet presenterar hjälptext för aktuellt avsnitt  
+  4. Användaren väljer att avsluta redigeringen  
+  5. Gå till 4  
   
+  2ba. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
+  ba1. Systemet varnar för tendenser mot vattenfallsmodellen  
+  ba2. gå till 2b2  
+
 ##AF2.3 - Lägga till händelse
 En projektmedlem väljer att lägga till en händelse, systemet efterfrågar namn, datum och beskrivning. D
 

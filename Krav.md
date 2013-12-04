@@ -1,3 +1,5 @@
+#Krav
+
 Krav | Källa | Författare | Beroende | Status | Baskrav | Risk | Täckning | Kundnytta | Prioritet | Points
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 AF1.1 Skapa projekt | Projektledare | Kristoffer 							| F1     | 0 		| 0 | 2 | 1 | 2 | 3 | 2
