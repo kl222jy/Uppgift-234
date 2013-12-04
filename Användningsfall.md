@@ -32,7 +32,7 @@ Projektmedlem: Vill kunna arbeta med systemet
 
 **Alternativt scenario:**  
 4a. Namnet används redan  
-  4a1. gå till steg 2  
+  4a1. *gå till steg 2*  
   
 ##AF2.2 - Hantera dokument
 **Avgränsning:** System  
@@ -60,67 +60,67 @@ Projektmedlem: Vill kunna arbeta med systemet
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
 
 2b. Vald dokumenttyp är kravspecifikation  
   1. Systemet applicerar mall för kravspecifikation  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
 
 2c. Vald dokumenttyp är krav  
   1. Systemet applicerar mall för krav  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
 
 2d. Vald dokumenttyp är projektplan  
   1. Systemet applicerar mall för projektplan  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
 
 2e. Vald dokumenttyp är iterationsplan  
   1. Systemet applicerar mall för iterationsplan  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
 
 2f. Vald dokumenttyp är ordlista  
   1. Systemet applicerar mall för ordlista  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
 
 2g. Vald dokumenttyp är testspecifikation  
   1. Systemet applicerar mall för testspecifikation  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
 
 2h. Vald dokumenttyp är testrapport  
   1. Systemet applicerar mall för testrapport  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
 
 2i. Vald dokumenttyp är användningsfall  
   1. Systemet applicerar mall för användningsfall  
   2. Användaren lägger till innehåll i dokumentet  
   3. Systemet presenterar hjälptext för aktuellt avsnitt  
   4. Användaren väljer att avsluta redigeringen  
-  5. Gå till 4  
+  5. *Gå till 4*  
   
   2a. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
   a1. Systemet varnar för tendenser mot vattenfallsmodellen  
-  a2. gå till 2  
+  a2. *gå till 2*  
 
 ##AF2.3 - Lägga till händelse
 En projektmedlem väljer att lägga till en händelse, systemet efterfrågar namn, datum och beskrivning.
