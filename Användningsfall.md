@@ -33,7 +33,6 @@ Projektmedlem: Vill kunna arbeta med systemet
 **Alternativt scenario:**  
 4a. Namnet används redan  
   4a1. gå till steg 2  
-  *Användarfallet avbryts*  
   
 ##AF2.2 - Hantera dokument
 **Avgränsning:** System  
@@ -54,6 +53,7 @@ Projektmedlem: Vill kunna arbeta med systemet
 **Alternativt scenario:**  
 *a Projektmedlemmen stänger fönstret eller något allvarligt fel inträffar  
   1. Systemet försöker spara all data  
+  2. *Användarfallet avbryts*  
   
 2a. Vald dokumenttyp är vision  
   1. Systemet applicerar mall för vision  
