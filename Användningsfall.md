@@ -114,9 +114,9 @@ Projektmedlem: Vill kunna arbeta med systemet
   4. Användaren väljer att avsluta redigeringen  
   5. Gå till 4  
   
-  2ba. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
-  ba1. Systemet varnar för tendenser mot vattenfallsmodellen  
-  ba2. gå till 2b2  
+  2ha. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
+  ha1. Systemet varnar för tendenser mot vattenfallsmodellen  
+  ha2. gå till 2h2  
 
 ##AF2.3 - Lägga till händelse
 En projektmedlem väljer att lägga till en händelse, systemet efterfrågar namn, datum och beskrivning. D
