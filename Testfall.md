@@ -65,7 +65,7 @@ Kontrollera att innehållet sparats korrekt
 6. Systemet presenterar "Överblick"  
 
 3a. Skriv in information som inte stämmer överens med ett avsnitt
-  1. Kontrollera att varning och hjälpa visas  
+  1. Kontrollera att varning och hjälp visas  
 
 
 3b. Stäng fönstret under pågående inmatning
