@@ -44,8 +44,8 @@ Samtliga användargrupper har också ett intresse för effektiviseringen detta syst
 * WCAG - Tillgänglighetsanpassning
 
 ##Liknande system
-* Freedcamp.com - ingen möjlighet att skapa filer på plats, snarare ett community med möjlighet att ladda upp filer.
-* Basecamp.com - klientvisning med restriktioner, sociala kopplingar för att främja diskussion i stora projekt, möjlighet att skapa textfiler - ingen hjälp.
+* http://freedcamp.com - ingen möjlighet att skapa filer på plats, snarare ett community med möjlighet att ladda upp filer.
+* http://basecamp.com - klientvisning med restriktioner, sociala kopplingar för att främja diskussion i stora projekt, möjlighet att skapa textfiler - ingen hjälp.
 
 ##Baskrav
 * BK1 - Projektmedlemmar ska enkelt och effektivt kunna hjälpas åt att hålla dokumentationen i toppskick
