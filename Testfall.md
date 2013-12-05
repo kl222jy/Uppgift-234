@@ -74,7 +74,7 @@ Kontrollera att innehållet sparats korrekt
   3. Kontrollera att den inmatade informationen sparats
   
   2a. Avbryt dokumentredigeringen  
-  2a1. Kontrollera att ingen av ändringarna sparats
+  1. Kontrollera att ingen av ändringarna sparats
 
 
 5a. Välj att avbryta redigeringen av dokumentet
