@@ -14,6 +14,7 @@ Projektets medlemmar ska kunna hjälpas åt att hålla denna uppdaterad och funktio
 Systemet ska göra processen effektivare samtidigt som det förenklar den.
 
 ##Användargrupper/Aktörer
+<!--
 ###Projektmedlem i mindre organisation
 Många mindre organisationer saknar specialister i ämnet och behöver därför ett förenklat system.
 
@@ -28,6 +29,18 @@ Vissa större organisationer saknar likvärdiga system och kompetens att driva pro
 
 ###Projektmedlem i större företag
 Se ovan
+-->
+###Oerfaren Projektledare
+Har troligen en del erfarenhet av arbete i projektform och någorlunda kunskaper inom projektteknik
+
+###Erfaren Projektledare
+Välutbildad inom projektteknik, god vana av att styra projekt
+
+###Oerfaren Projektmedlem
+Bristande utbildning i projektteknik, troligen inte särskilt van vid att arbeta i grupp
+
+###Erfaren Projektmedlem
+Välutbildad inom projektteknik, har god vana av att arbeta i grupp.
 
 ###Projektkund
 Skiftande datorvana, bör ha viss insyn i projektet.
