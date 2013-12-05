@@ -48,9 +48,9 @@ Skiftande datorvana, bör ha viss insyn i projektet.
 Samtliga användargrupper har också ett intresse för effektiviseringen detta system innebär gentemot normalfallet.
 
 ##Intressenter
-* Kristoffer Lind - grundare - kristoffer@krad.se
-* Linnéuniversitetet, 1dv404 - kvalitetskontroll, dokumentation
-* Linnéuniversitetet, 1dv430 - kvalitetskontroll, projekt
+* Kristoffer Lind - Grundare - kristoffer@krad.se
+* Linnéuniversitetet, 1dv404 - Kvalitetskontroll, dokumentation
+* Linnéuniversitetet, 1dv430 - Kvalitetskontroll, projekt
 * Eddie Cefa, skype: eddiec85 - Önskemål inför arbete med systemet
 * Github - Koppling för kodkontroller
 * W3C - Kodstandard
