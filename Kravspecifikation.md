@@ -18,6 +18,9 @@ Vill enkelt och effektivt kunna skapa och hantera projekt. Önskar god överblick 
 ####2 Projektmedlem
 Vill enkelt och effektivt kunna hantera projektet och ha god överblick över vad som händer. Vill ha god kommunikation med övriga projektmedlemmar. Vill få ut sina idéer för projektet utan att direkt behöva tänka på struktur.
 
+####3 Projektkund
+Vill ha insyn i projektets progression
+
 ###Stödjande aktörer
 
 ####Datalagring
@@ -34,11 +37,11 @@ Projektmedlemmar ska kunna logga in i systemet
 AF1.1 - Skapa projekt  
 AF1.2 - Lägga till projektmedlemmar  
 AF1.3 - Ta bort projektmedlemmar  
-AF1.4 - Ställa in vilken information som är tillgänglig för kund  
+AF1.4 - Ställa in vilken information som är tillgänglig för projektkund  
 
 ####2 Projektmedlem  
 AF2.1 - Lägga till dokument  
-AF2.2 - Hantera dokument  
+AF2.2 - Hantera textbaserade dokument  
 AF2.3 - Lägga till händelse  
 AF2.4 - Kommunicera med enskild projektmedlem  
 AF2.5 - Kommunicera med samtliga projektmedlemmar  
@@ -46,6 +49,7 @@ AF2.6 - Lägga till idé
 AF2.7 - Ta bort dokument  
 AF2.8 - Ta bort idé  
 AF2.9 - Ta bort händelse  
+AF2.10 - Hantera tabellbaserade dokument  
 
 ##Ickefunktionella krav
 

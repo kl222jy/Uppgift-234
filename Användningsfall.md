@@ -27,14 +27,14 @@ Projektmedlem: Vill kunna arbeta med systemet
 1. Projektmedlemmen väljer att skapa ett nytt dokument  
 2. Systemet frågar efter namn och dokumenttyp  
 3. Projektmedlemmen väljer namn  
-4. Systemet skapar filen och presenterar den  
-5. Gå till AF2.2 - Hantera dokument
+4. Systemet skapar filen utifrån dokumenttypens mall och presenterar den  
+5. *Gå till AF2.2 - Hantera dokument*
 
 **Alternativt scenario:**  
 4a. Namnet används redan  
   4a1. *gå till steg 2*  
   
-##AF2.2 - Hantera dokument
+##AF2.2 - Hantera textbaserat dokument
 **Avgränsning:** System  
 **Nivå:** Användarmål  
 **Primär aktör:** Projektmedlem  
@@ -46,81 +46,24 @@ Projektmedlem: Vill kunna arbeta med systemet
 **Efterkrav:** Dokumentet har skapats  
 **Huvudscenario:**  
 1. Projektmedlemmen väljer hantera ett dokument  
-2. Systemet presenterar dokumentet  
-3. Användaren lägger till innehåll i dokumentet  
-4. Datalagringen sparar dokumentet och dess innehåll  
+2. Systemet presenterar dokumentet
+3. Projektmedlemmen lägger till innehåll i dokumentet  
+4. Systemet presenterar hjälp för aktuell inmatning  
+5. Projektmedlemmen väljer att verkställa ändringarna  
+6. Systemet sparar innehållet  
 
 **Alternativt scenario:**  
 *a Projektmedlemmen stänger fönstret eller något allvarligt fel inträffar  
   1. Systemet försöker spara all data  
   2. *Användarfallet avbryts*  
-  
-2a. Vald dokumenttyp är vision  
-  1. Systemet applicerar mall för vision  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
 
-2b. Vald dokumenttyp är kravspecifikation  
-  1. Systemet applicerar mall för kravspecifikation  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
-
-2c. Vald dokumenttyp är krav  
-  1. Systemet applicerar mall för krav  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
-
-2d. Vald dokumenttyp är projektplan  
-  1. Systemet applicerar mall för projektplan  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
-
-2e. Vald dokumenttyp är iterationsplan  
-  1. Systemet applicerar mall för iterationsplan  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
-
-2f. Vald dokumenttyp är ordlista  
-  1. Systemet applicerar mall för ordlista  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
-
-2g. Vald dokumenttyp är testspecifikation  
-  1. Systemet applicerar mall för testspecifikation  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
-
-2h. Vald dokumenttyp är testrapport  
-  1. Systemet applicerar mall för testrapport  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
-
-2i. Vald dokumenttyp är användningsfall  
-  1. Systemet applicerar mall för användningsfall  
-  2. Användaren lägger till innehåll i dokumentet  
-  3. Systemet presenterar hjälptext för aktuellt avsnitt  
-  4. Användaren väljer att avsluta redigeringen  
-  5. *Gå till 4*  
-  
-  2a. Om vald projekttyp är iterativ, projektet är i ett tidigt stadie och kravspecifikationen börjar bli väl utförlig  
-  a1. Systemet varnar för tendenser mot vattenfallsmodellen  
-  a2. *gå till 2*  
+3a Projektmedlemmen matar in innehåll som inte stämmer överens med dokumenttypen och aktuellt avsnitt
+  1. Systemet presenterar en varning och ett hjälpavsnitt  
+  2. *gå till steg 2*  
+    
+3b. Projektmedlemmen skriver för utförlig information i förhållande till projektets fas, vald dokumenttyp och projektform  
+  1. Systemet varnar för tendenser mot vattenfallsmodellen  
+  2. *gå till steg 2*  
 
 ##AF2.3 - Lägga till händelse
 En projektmedlem väljer att lägga till en händelse, systemet efterfrågar namn, datum och beskrivning.
@@ -142,3 +85,9 @@ En projektmedlem väljer att ta bort en idé, systemet tar bort idén
 
 ##AF2.9 - Ta bort händelse  
 En projektmedlem väljer att ta bort en händelse, systemet tar bort händelsen
+
+##AF2.10 - Hantera tabellbaserat dokument  
+AF2.2 med lämpliga variationer
+
+##AF2.11 - Hantera listbaserat dokument  
+AF2.2 med lämpliga variationer

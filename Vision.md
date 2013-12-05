@@ -14,20 +14,23 @@ Projektets medlemmar ska kunna hjälpas åt att hålla denna uppdaterad och funktio
 Systemet ska göra processen effektivare samtidigt som det förenklar den.
 
 ##Användargrupper/Aktörer
-###Mindre organisationer
+###Projektmedlem i mindre organisation
 Många mindre organisationer saknar specialister i ämnet och behöver därför ett förenklat system.
 
-###Mindre företag
+###Projektmedlem i mindre företag
 Se ovan
 
-###Studenter
+###Student i projektarbete
 Troligen god datorvana och bristande utbildning i projektdokumentation.
 
-###Större organisationer
+###Projektmedlem i större organisation
 Vissa större organisationer saknar likvärdiga system och kompetens att driva projekt på ett effektivt sätt utan stöd.
 
-###Större företag
+###Projektmedlem i större företag
 Se ovan
+
+###Projektkund
+Skiftande datorvana, bör ha viss insyn i projektet.
 
 Samtliga användargrupper har också ett intresse för effektiviseringen detta system innebär gentemot normalfallet.
 
@@ -35,6 +38,10 @@ Samtliga användargrupper har också ett intresse för effektiviseringen detta syst
 * Kristoffer Lind - grundare - kristoffer@krad.se
 * Linnéuniversitetet, 1dv404 - kvalitetskontroll, dokumentation
 * Linnéuniversitetet, 1dv430 - kvalitetskontroll, projekt
+* Eddie Cefa, skype: eddiec85 - Önskemål inför arbete med systemet
+* Github - Koppling för kodkontroller
+* W3C - Kodstandard
+* WCAG - Tillgänglighetsanpassning
 
 ##Liknande system
 * Freedcamp.com - ingen möjlighet att skapa filer på plats, snarare ett community med möjlighet att ladda upp filer.

@@ -33,33 +33,58 @@
 	**Alternativt scenario:**  
 	4a. Namnet används redan  
 	  4a1. gå till steg 2  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
 -->
-##TF AF2.2 - Hantera dokument
+##TF AF2.2 - Hantera textbaserade dokument
 Målet för detta testfall är att undersöka att det går att hantera ett dokument.
 
 ###Förkrav
-Inloggad, projekt skapat, följande dokument måste finnas:  
-namn:dokumenttyp  
-"test-skräddarsydd":"skräddarsydd"  
-"test-vision":"vision"  
-"test-kravspecifikation":"kravspecifikation"  
-"test-krav":"krav"  
-"test-projektplan":"projektplan"  
-"test-iterationsplan":"iterationsplan"  
-"test-ordlista":"ordlista"  
-"test-testspecifikation":"testspecifikation"  
-"test-testrapport":"testrapport"  
-"test-användningsfall":"användningsfall"  
-
+Inloggad, projekt skapat, dokumentet "vision"
 ###Efterkrav
-Kontrollera att dokument av rätt dokumenttyp skapats och sparats korrekt med det innehåll som fyllts i.
+Kontrollera att innehållet sparats korrekt
 
 ###Scenario
-1. "Överblick":"Öppna dokument":"test-skräddarsydd"  
-2. Dokumentet "test-skräddarsydd" av typen "skräddarsydd" presenteras  
-3. Lägg till rubriken "test-rubrik" och 5 paragrafer lorem ipsum i dokumentet  
+1. "Överblick":"Öppna dokument":"vision"  
+2. Dokumentet "vision" av typen "vision" presenteras  
+3. Lägg till detta projektets vision i dokumentet  
 4. Spara dokumentet och avsluta  
 5. Projektöverblick presenteras  
+
+
+3a. Skriv in information som inte stämmer överens med ett avsnitt  
+  1. Kontrollera att varning och hjälpavsnitt visas  
+4a. Välj att avbryta redigeringen av dokumentet  
+  1. kontrollera att ändringarna inte har sparats  
+
+
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1a. "Överblick":"Öppna dokument":"test-vision"  
   1. Dokumentet "test-vision" av typen "vision" presenteras  
@@ -106,13 +131,11 @@ Kontrollera att dokument av rätt dokumenttyp skapats och sparats korrekt med det
   2. Lägg till några korta användningsfall  
   3. gå till steg 4  
 
-  2a. Lägg till några längre användningsfall(fully dressed)  
-  2a1. Kontrollera att varning ges för risk för tendenser till vattenfallsmodell  
 
 
 
 
-<!--
+
  ##AF2.2 - Hantera dokument
 **Avgränsning:** System  
 **Nivå:** Användarmål  
@@ -211,4 +234,9 @@ En projektmedlem väljer att ta bort en idé, systemet tar bort idén
 ##AF2.9 - Ta bort händelse  
 En projektmedlem väljer att ta bort en händelse, systemet tar bort händelsen
 
+##AF2.10 - Hantera tabellbaserat dokument  
+AF2.2 med lämpliga variationer
+
+##AF2.11 - Hantera listbaserat dokument  
+AF2.2 med lämpliga variationer
 -->
