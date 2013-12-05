@@ -46,7 +46,7 @@ Projektmedlem: Vill kunna arbeta med systemet
 **Efterkrav:** Dokumentet har skapats  
 **Huvudscenario:**  
 1. Projektmedlemmen väljer hantera ett dokument  
-2. Systemet presenterar dokumentet
+2. Systemet presenterar dokumentet  
 3. Projektmedlemmen lägger till innehåll i dokumentet  
 4. Systemet presenterar hjälp för aktuell inmatning  
 5. Projektmedlemmen väljer att verkställa ändringarna  
