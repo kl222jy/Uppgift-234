@@ -58,17 +58,27 @@ Kontrollera att innehållet sparats korrekt
 
 ###Scenario
 1. "Överblick":"Öppna dokument":"vision"  
-2. Dokumentet "vision" av typen "vision" presenteras  
+2. Systemet presenterar dokumentet "vision" av typen "vision"  
 3. Lägg till detta projektets vision i dokumentet  
-4. Spara dokumentet och avsluta  
-5. Projektöverblick presenteras  
+4. Systemet presenterar hjälp för vardera avsnitt  
+5. Spara dokumentet och avsluta  
+6. Systemet presenterar "Överblick"  
 
 3a. Skriv in information som inte stämmer överens med ett avsnitt
-  1. Kontrollera att varning och hjälpavsnitt visas  
+  1. Kontrollera att varning och hjälpa visas  
 
 
-4a. Välj att avbryta redigeringen av dokumentet
-  1. kontrollera att ändringarna inte har sparats  
+3b. Stäng fönstret under pågående inmatning
+  1. Kontrollera att den inmatade informationen finns kvar
+  2. Spara och avsluta
+  3. Kontrollera att den inmatade informationen sparats
+  
+  2a. Avbryt dokumentredigeringen
+  2a1. Kontrollera att ingen av ändringarna sparats
+
+
+5a. Välj att avbryta redigeringen av dokumentet
+  1. Kontrollera att ändringarna inte har sparats  
 
 
 <!--
