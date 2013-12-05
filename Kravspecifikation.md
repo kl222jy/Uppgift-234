@@ -11,14 +11,30 @@ Prioritetsordning, status och referenser för kraven.
 ##Aktörer
 
 ###Primära aktörer
-
+<!--
 ####1 Projektledare
 Vill enkelt och effektivt kunna skapa och hantera projekt. Önskar god överblick över projektet som helhet, status på dess deluppgifter och att alla projektmedlemmar hålls sysselsatta.
 
 ####2 Projektmedlem
 Vill enkelt och effektivt kunna hantera projektet och ha god överblick över vad som händer. Vill ha god kommunikation med övriga projektmedlemmar. Vill få ut sina idéer för projektet utan att direkt behöva tänka på struktur.
+-->
+####1 Oerfaren Projektledare
+Vill ha så mycket hjälp som möjligt med administrativa funktioner. Vill inte bli störd av hjälpfunktioner under vanlig hantering.
+Benämns i systemet som projektledare.
 
-####3 Projektkund
+####2 Erfaren Projektledare
+Vill inte bli störd av hjälpfunktioner. Vill nyttja mallar för att minska tidsåtgången.
+Benämns i systemet som projektledare.
+
+####3 Oerfaren Projektmedlem
+Vill ha så mycket hjälp som möjligt med all projekthantering. Vill komma i kontakt med fler personer ur projektgruppen.
+Benämns i systemet som projektmedlem.
+
+####4 Erfaren Projektmedlem
+Vill inte bli störd av hjälpfunktioner. Vill nyttja mallar för att minska tidsåtgången. Vill i enstaka fall kunna överblicka hjälpen för bortglömda delar.
+Benämns i systemet som projektmedlem.
+
+####5 Projektkund
 Vill ha insyn i projektets progression
 
 ###Stödjande aktörer
