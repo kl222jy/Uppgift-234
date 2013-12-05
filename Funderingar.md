@@ -8,8 +8,11 @@ Detta dokument innehåller idéer och funderingar, dokumentet är inte en del av do
 * Varningar för dokumentationsfel som kan sabotera projektet hade varit bra, men vad ska det varnas för?
 * Kontrollera likhet vid inläggning av idéer? (lista eventuella liknande idébeskrivningar och fråga om någon av dem är samma som den som man tänkt lägga in?)
 * openauth?
-* slider för inställning av hjälpnivå?
+* slider för inställning av hjälpnivå? (nog bättre att presentera hjälpen på ett vis som inte stör dokumentskapandet
 * val av arbetsprocess eller bara valet mellan en välutvecklad process(lnus?) och tomma dokument?
+
+##System
+* Använda node.js/backbone.js?
 
 ##Varningar
 * Tendenser mot vattenfallsmodell
