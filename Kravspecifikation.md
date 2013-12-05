@@ -50,6 +50,7 @@ AF2.7 - Ta bort dokument
 AF2.8 - Ta bort idé  
 AF2.9 - Ta bort händelse  
 AF2.10 - Hantera tabellbaserade dokument  
+AF2.11 - Hantera tabellbaserade dokument  
 
 ##Ickefunktionella krav
 
