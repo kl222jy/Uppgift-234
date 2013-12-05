@@ -63,9 +63,9 @@ Kontrollera att innehållet sparats korrekt
 4. Spara dokumentet och avsluta  
 5. Projektöverblick presenteras  
 
-
 3a. Skriv in information som inte stämmer överens med ett avsnitt
   1. Kontrollera att varning och hjälpavsnitt visas  
+
 4a. Välj att avbryta redigeringen av dokumentet
   1. kontrollera att ändringarna inte har sparats  
 
